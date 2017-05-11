@@ -1,0 +1,2 @@
+# phonegapTestPlugin
+Just for test
